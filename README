@@ -1,0 +1,1 @@
+This application uses the metaweather api to get weather data. Rather than using .then to consume the promises, Async and Await is used
